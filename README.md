@@ -4,7 +4,7 @@
 Este repositorio contiene un algoritmo en Python que, dada una lista ordenada de números y una lista de consultas, encuentra los dos números más cercanos en la lista ordenada para cada consulta.
 
 ### Requisitos
-* **Python:** Asegúrate de tener Python es su versión mas reciente instalado en tu sistema.
+* **Python:** Asegúrate de tener Python en su versión mas reciente instalado en tu sistema.
 
 ### Clonación del Repositorio
 1. **Crea una cuenta en GitHub:** Si aún no tienes una, crea una cuenta en [https://github.com/](https://github.com/).
