@@ -9,7 +9,7 @@ Este repositorio contiene un algoritmo en Python que, dada una lista ordenada de
 ### Clonación del Repositorio
 1. **Crea una cuenta en GitHub:** Si aún no tienes una, crea una cuenta en [https://github.com/](https://github.com/).
 2. **Clona el repositorio:** Abre tu terminal o línea de comandos y ejecuta el siguiente comando, reemplazando `tu_nombre_de_usuario` y `nombre_del_repositorio` con los valores correspondientes:
-   `git clone [https://github.com/tu_nombre_de_usuario/nombre_del_repositorio.git](https://github.com/tu_nombre_de_usuario/nombre_del_repositorio.git)`
+   `git clone [https://github.com/BaironDev7/Algoritmo-numeros-cercanos.git](https://github.com/BaironDev7/Algoritmo-numeros-cercanos.git)`
 
 3. **Navega al directorio:** Una vez clonado el repositorio, navega al directorio del proyecto:
     
